@@ -1,0 +1,24 @@
+﻿.centerLayout {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
+}
+.paddingLeft10 {
+    padding-left:10px;
+}
+.paddingRight10 {
+    padding-right:10px;
+}
+.paddingTop10 {
+    padding-top:10px;
+}
+.ln {
+    clear:both;
+}
+.floatL {
+    float:left;
+}
+
+.widthElement {
+    width:250px;
+}

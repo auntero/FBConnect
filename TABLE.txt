@@ -1,0 +1,10 @@
+user, pass, db_name, sqlip and other config on LIB/Connection.php
+
+
+CREATE TABLE IF NOT EXISTS `storeddata` (
+  `idstoredData` int(11) NOT NULL AUTO_INCREMENT,
+  `storedData_Name` varchar(50) DEFAULT NULL,
+  `storedData_FBID` varchar(50) DEFAULT NULL,
+  `storedData_createDate` datetime DEFAULT NULL,
+  PRIMARY KEY (`idstoredData`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=5 ;
